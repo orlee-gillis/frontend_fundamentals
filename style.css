@@ -1,0 +1,117 @@
+title {
+font-size: 36px;
+font-weight: bold;
+  line-height: normal;
+
+}
+body {
+  background-color: #ffffff;
+  color: #000000;
+  font-size: 22px;
+
+}
+
+nav {
+  background-color: rgba(0,0,0,.5);
+  float: left;
+  position: fixed;
+  width: 100%;
+}
+
+h1{
+font-size: 24px;
+font-weight: bold;
+line-height: 10px;
+
+}
+
+h2{
+  font-size:18px;
+  font-weight: lighter;
+  font-style: italic;
+  line-height: normal;
+
+}
+
+p.author {
+  font-size: 20px;
+}
+
+div.story-text {
+  font-size: 16px;
+  line-height: normal;
+}
+
+.logo {
+  margin: 20px;
+  width: 100px;
+}
+
+.large-pic {
+  width: 100%;
+}
+
+.medium-pic {
+  display: block;
+     margin-left: auto;
+     width: 100%;
+
+}
+
+.left, .right {
+  float: left;
+  width: 50%;
+}
+
+.right {
+  float: right;
+}
+
+ul {
+  list-style-type: none;
+  float: right;
+}
+
+li {
+  float: right;
+  padding: 30px;
+font-weight: 200;
+font-style: normal;
+text-decoration: none;
+}
+
+  a:link {
+    color: #ffffff;
+    text-decoration: none;
+    font-weight: lighter;
+}
+
+/* visited link */
+a:visited {
+    color: blue;
+    text-decoration: none;
+}
+
+/* mouse over link */
+a:hover {
+    color: red;
+    text-decoration: none;
+}
+
+
+article {
+  padding-top: 100px;
+}
+
+.container {
+  margin: 0 auto;
+  width: 50%;
+}
+
+figure {
+  font-size:32px
+}
+.figcaption {
+  font-size:18px;
+  line-height: normal;
+}
